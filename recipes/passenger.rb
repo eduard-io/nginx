@@ -15,8 +15,8 @@
 # limitations under the License.
 #
 
-#package 'libcurl4-openssl-dev' do
-package 'ruby-devel' do
+package 'libcurl4-openssl-dev' do
+#package 'ruby-devel' do
   action :install
 end
 
